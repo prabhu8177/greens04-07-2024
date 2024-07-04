@@ -1,3 +1,7 @@
 greens
 technology
+<<<<<<< HEAD
 dssdsds
+=======
+place
+>>>>>>> 9f434c1726d8a7b3a613c5da08bd6b13a304c876
